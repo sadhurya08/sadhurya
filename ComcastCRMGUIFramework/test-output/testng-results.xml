@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-28T15:09:11 IST" name="Default suite" finished-at="2024-10-28T15:09:21 IST" duration-ms="9402">
+    <groups>
+    </groups>
+    <test started-at="2024-10-28T15:09:11 IST" name="Default test" finished-at="2024-10-28T15:09:21 IST" duration-ms="9402">
+      <class name="practice.test.InvoiceTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:11 IST" name="configBS" finished-at="2024-10-28T15:09:11 IST" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:11 IST" name="configBC" finished-at="2024-10-28T15:09:14 IST" duration-ms="2655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:14 IST" name="configBM" finished-at="2024-10-28T15:09:17 IST" duration-ms="2628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createInvoiceTest()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:17 IST" name="createInvoiceTest" finished-at="2024-10-28T15:09:17 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createInvoiceTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:17 IST" name="configAM" finished-at="2024-10-28T15:09:18 IST" duration-ms="1152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:18 IST" name="configBM" finished-at="2024-10-28T15:09:19 IST" duration-ms="1464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createInvoiceWithContactTest()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:19 IST" name="createInvoiceWithContactTest" finished-at="2024-10-28T15:09:19 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createInvoiceWithContactTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:19 IST" name="configAM" finished-at="2024-10-28T15:09:20 IST" duration-ms="1144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:20 IST" name="configAC" finished-at="2024-10-28T15:09:21 IST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:practice.test.InvoiceTest@1a245833]" started-at="2024-10-28T15:09:21 IST" name="configAS" finished-at="2024-10-28T15:09:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- practice.test.InvoiceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
